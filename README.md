@@ -11,7 +11,12 @@ It also includes jest tests and api specs.
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript repository.
+Project is created using default NestJs set up
+
+There are only 2 api end points - 
+1. Data end point `http://localhost:3000/debt/:id` value of :id can be 1,2,3,4
+2. API specs end point `http://localhost:3000/api`
 
 ## Installation
 
